@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a 5th year PhD Economics Candidate at [University of Washington, Seattle](https://econ.washington.edu/people/manya-malik).
+I am a 6th year PhD Economics Candidate at [University of Washington, Seattle](https://econ.washington.edu/people/manya-malik).
 
 I hold a Masters in Economics from the Delhi School of Economics and an undergraduate degree in Economics from University of Delhi. I previously worked as a Research Associate at International Initiative for Impact Evaluation, New Delhi and Reserve Bank of India and as a Statistical Analyst at Walmart Labs.
 
